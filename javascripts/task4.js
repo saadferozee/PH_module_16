@@ -1,7 +1,7 @@
 let student = {
-    name: "Ariana Grande",
+    name: "Arian Grande",
     age: 21,
-    city: "Gaibandha",
+    city: "Dhaka",
     isStudent: true,
 }
 
